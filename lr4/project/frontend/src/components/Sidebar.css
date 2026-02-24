@@ -1,0 +1,7 @@
+.sidebar { width:200px; background:#f4f4f4; padding:20px; height:100vh; position:fixed; left:0; top:0 }
+.sidebar h3 { margin-top:0 }
+.sidebar ul { list-style:none; padding:0 }
+.sidebar li { margin-bottom:10px }
+.sidebar button { width:100%; padding:10px; background:#ddd; border:none; cursor:pointer; font-size:16px; border-radius:4px }
+.sidebar button.active { background:#007bff; color:white }
+.sidebar button:hover { background:#ccc }
